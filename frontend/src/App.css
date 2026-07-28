@@ -1,0 +1,101 @@
+/*
+ * App.css — Page-specific styles only.
+ * Global design system, variables, layout, and components are in index.css
+ */
+
+/* ===========================
+   DASHBOARD PAGE
+   =========================== */
+.dashboard-page {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* ===========================
+   AI STUDIO PAGE
+   =========================== */
+.studio-page {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* ===========================
+   DATA VAULT / INGEST PAGE
+   =========================== */
+.vault-page {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* ===========================
+   BRAND PAGE
+   =========================== */
+.brand-page {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* ===========================
+   ANALYTICS PAGE
+   =========================== */
+.analytics-page {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* ===========================
+   SETTINGS PAGE
+   =========================== */
+.settings-page {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* ===========================
+   CAMPAIGNS PAGE
+   =========================== */
+.campaigns-page {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* ===========================
+   REPORTS PAGE
+   =========================== */
+.reports-page {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* ===========================
+   USERS PAGE
+   =========================== */
+.users-page {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* ===========================
+   SEPARATOR
+   =========================== */
+.sep {
+  height: 1px;
+  background: var(--border);
+  margin: 16px 0;
+}
+
+/* ===========================
+   TEXT ALIGN UTILS
+   =========================== */
+.text-right { text-align: right; }
+.text-center { text-align: center; }
+.text-left { text-align: left; }

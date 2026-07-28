@@ -1,0 +1,17 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="30" fill="url(#gradient)"/>
+  <path d="M36 42C36 34.268 42.268 28 50 28H70C77.732 28 84 34.268 84 42V78C84 85.732 77.732 92 70 92H50C42.268 92 36 85.732 36 78V42Z" fill="white" opacity="0.08"/>
+  <path d="M56 44C56 42.3431 57.3431 41 59 41H69C70.6569 41 72 42.3431 72 44V76C72 77.6569 70.6569 79 69 79H59C57.3431 79 56 77.6569 56 76V44Z" fill="white"/>
+  <path d="M60 48H68" stroke="#7C3AED" strokeWidth="3" strokeLinecap="round"/>
+  <path d="M60 56H68" stroke="#7C3AED" strokeWidth="3" strokeLinecap="round"/>
+  <path d="M60 64H68" stroke="#7C3AED" strokeWidth="3" strokeLinecap="round"/>
+  <path d="M57 52H58" stroke="#7C3AED" strokeWidth="3" strokeLinecap="round"/>
+  <path d="M57 60H58" stroke="#7C3AED" strokeWidth="3" strokeLinecap="round"/>
+  <path d="M57 68H58" stroke="#7C3AED" strokeWidth="3" strokeLinecap="round"/>
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="120" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#9333EA"/>
+    </linearGradient>
+  </defs>
+</svg>

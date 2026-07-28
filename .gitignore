@@ -1,0 +1,19 @@
+# Python
+.venv/
+venv/
+**/.venv/
+**/venv/
+__pycache__/
+
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+**/.env
+
+# Database
+*.db
+*.db-shm
+*.db-wal
